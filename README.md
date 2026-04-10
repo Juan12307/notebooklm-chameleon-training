@@ -1,5 +1,7 @@
 # 🦎 Chamaeleonidae-Insights: Biofísica e Ecologia Avançada
 
+ ⚡ CLIQUE AQUI ➔ Acessar Caderno Interativo (NotebookLM)
+Utilize o link acima para conversar diretamente com as fontes deste estudo e tirar dúvidas sobre a biologia dos camaleões.
 ### 🎯 Contexto e Objetivos
 
 Este caderno temático dedica-se ao estudo aprofundado da **família Chamaeleonidae (Camaleões)**, um grupo de répteis que representa um dos exemplos mais notáveis de adaptação e especialização na natureza. O assunto de interesse central é a **biologia integrativa e as especializações biofísicas** desses animais, explorando desde anatomia comparada até mecanismos fisiológicos de fronteira que desafiam os modelos tradicionais de vertebrados.

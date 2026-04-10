@@ -1,6 +1,7 @@
 # 🦎 Chamaeleonidae-Insights: Biofísica e Ecologia Avançada
 
- ⚡ CLIQUE AQUI ➔ Acessar Caderno Interativo (NotebookLM)
+ ⚡ CLIQUE AQUI ➔ Acessar Caderno Interativo (NotebookLM): https://notebooklm.google.com/notebook/1576790d-b5cd-4e2a-b6b4-9dc084508767
+ 
 Utilize o link acima para conversar diretamente com as fontes deste estudo e tirar dúvidas sobre a biologia dos camaleões.
 ### 🎯 Contexto e Objetivos
 
